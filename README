@@ -1,1 +1,7 @@
 This repository contains my completed assignments for the class of OS.
+
+Assignment 1 is about Inter Process Communication.
+
+Assignment 2 is about Processes/threads and synchronization
+
+Assignment 3 is about simulating a deadlock and implementing reader writer problem using processes, where shared data is astructure as follow.
